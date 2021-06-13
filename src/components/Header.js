@@ -10,9 +10,9 @@ const Header = () => (
         <img src={avatar} alt="" />
       </a>
       <h1>
-        <strong>I am Massie Wu</strong>, an Engineer
+        <strong>I am Massie Wu</strong>, an Engineer&nbsp;
         <br />
-        and a Math/Mandarin teacher on
+        and a Math/Mandarin teacher on&nbsp;
         <br />
         <a href="https://en.amazingtalker.com/teachers-and-tutors/massie?language=math">
           AmazingTalker
@@ -20,7 +20,6 @@ const Header = () => (
         .
       </h1>
     </div>
-    <Footer />
   </header>
 )
 
