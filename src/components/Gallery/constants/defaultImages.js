@@ -1,9 +1,9 @@
 import full01 from '../../../assets/images/fulls/hku.jpeg'
-import full02 from '../../../assets/images/fulls/gu.jpg'
-import full03 from '../../../assets/images/fulls/itchen.jpg'
+import full02 from '../../../assets/images/fulls/gu.jpeg'
+import full03 from '../../../assets/images/fulls/itchen.jpeg'
 import thumb01 from '../../../assets/images/thumbs/hku.jpeg'
-import thumb02 from '../../../assets/images/thumbs/gu.jpg'
-import thumb03 from '../../../assets/images/thumbs/itchen.jpg'
+import thumb02 from '../../../assets/images/thumbs/gu.jpeg'
+import thumb03 from '../../../assets/images/thumbs/itchen.jpeg'
 
 export const DEFAULT_IMAGES = [
   {
