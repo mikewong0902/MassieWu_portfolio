@@ -6,8 +6,8 @@ import Layout from '../components/layout'
 import ExpList from '../components/ExpList/components/ExpList.js'
 
 const HomeIndex = () => {
-  const siteTitle = 'Gatsby Starter - Strata'
-  const siteDescription = 'Site description'
+  const siteTitle = 'Massie'
+  const siteDescription = 'Math teacher Massie Wu'
 
   return (
     <Layout>
