@@ -59,16 +59,28 @@ const HomeIndex = () => {
                   Hong Kong Island, Hong Kong
                 </li>
                 <li>
+                  <h3 className="icon fa-envelope-o">
+                    <span className="label">Email</span>
+                  </h3>
+                  <a href="mailto:massiew97@gmail.com">massiew97@gmail.com</a>
+                </li>
+                <li>
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
                   +852 9605 7932
                 </li>
                 <li>
-                  <h3 className="icon fa-envelope-o">
-                    <span className="label">Email</span>
+                  <h3 className="icon fa-whatsapp">
+                    <span className="label">Whatsapp</span>
                   </h3>
-                  <a href="mailto:massiew97@gmail.com">massiew97@gmail.com</a>
+                  +852 9605 7932
+                </li>
+                <li>
+                  <h3 className="icon fa-weixin">
+                    <span className="label">Wechat</span>
+                  </h3>
+                  MassieMQ97
                 </li>
               </ul>
             </div>

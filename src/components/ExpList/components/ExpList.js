@@ -5,8 +5,6 @@ import {
 } from 'react-vertical-timeline-component'
 import 'react-vertical-timeline-component/style.min.css'
 import WorkIcon from '@material-ui/icons/Work'
-import SchoolIcon from '@material-ui/icons/School'
-import StarIcon from '@material-ui/icons/Star'
 
 const ExpList = () => {
   return (
@@ -57,7 +55,7 @@ const ExpList = () => {
           <h4 className="vertical-timeline-element-subtitle">
             Glasgow Kelvin College
           </h4>
-          <p>Teacher</p>
+          <p>Part-time teaching at a local school</p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
